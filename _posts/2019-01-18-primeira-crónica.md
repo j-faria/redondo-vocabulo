@@ -5,6 +5,7 @@ author: isabel
 categories:
   - cronicando
 image: assets/images/11.jpg
+tags: 
 ---
 Anim voluptate sit quis sunt ad nulla aliquip elit veniam tempor. Laboris proident non voluptate eu. Consectetur consectetur et nostrud nulla. Veniam proident qui anim consequat sint magna nulla id elit nisi non. Ad laborum anim tempor pariatur ad nulla aute. Commodo laboris esse occaecat qui labore incididunt occaecat do occaecat commodo. Sint fugiat id pariatur incididunt aute cillum do duis dolore culpa excepteur esse fugiat.
 

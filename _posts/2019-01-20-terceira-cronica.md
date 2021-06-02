@@ -4,6 +4,7 @@ title:  "Terceira Crónica"
 author: isabel
 categories: [ cronicando ]
 image: assets/images/12.jpg
+tags: 
 ---
 
 Cillum anim sunt est incididunt esse qui anim dolor sint. Nulla ut commodo

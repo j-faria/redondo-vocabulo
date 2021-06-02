@@ -4,6 +4,7 @@ title:  "Primeira Opinião"
 author: isabel
 categories: [ opinando ]
 image: https://images.unsplash.com/photo-1523740856324-f2ce89135981?ixlib=rb-1.2.1&auto=format&fit=crop&w=798&q=80
+tags: 
 ---
 
 

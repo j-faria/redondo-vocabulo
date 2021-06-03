@@ -1,9 +1,9 @@
 ---
-title: "About"
+title: About
 layout: page-sidebar
-permalink: "/about"
-image: "/assets/images/screenshot.jpg"
+permalink: /about
+image: /uploads/blog-1.webp
 comments: true
 ---
 
-Made with <i class="fa fa-heart text-danger"></i> by Sal [@wowthemesnet](https://www.wowthemes.net/category/free-themes-templates/).
+Made with by Sal [@wowthemesnet](https://www.wowthemes.net/category/free-themes-templates/).

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Bem-vindos!
+title: Seja bem vindo quem vier por bem!
 categories:
-image: assets/images/demo1.jpg
+image: /uploads/blog.webp
 tags:
   - top
 ---

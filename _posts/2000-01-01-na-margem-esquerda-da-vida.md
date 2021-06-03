@@ -2,7 +2,7 @@
 layout: post
 title: Na margem esquerda da vida
 categories:
-image: /uploads/blog.webp
+image: /assets/images/blog.webp
 tags:
   - top
 ---

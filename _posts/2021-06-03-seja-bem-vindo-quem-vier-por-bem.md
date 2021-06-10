@@ -4,7 +4,7 @@ title: Seja bem vindo quem vier por bem
 author:
 categories:
   - cronicando
-image: /assets/images/1.jpg
+image: /assets/images/8.jpg
 tags:
   - top
 ---

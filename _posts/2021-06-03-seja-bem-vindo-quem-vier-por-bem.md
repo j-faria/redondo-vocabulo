@@ -6,5 +6,6 @@ categories:
   - cronicando
 image: /assets/images/1.jpg
 tags:
+  - top
 ---
 bla bla bla

@@ -21,19 +21,35 @@
         {% endfor %}   
     </ol>
 
+    
+    
     <h4 class="font-weight-bold spanborder"><span>Temas</span></h4>
-
-    {% assign tags = site.tags | sort %}
-    {% for tag in tags %}
+    
+    <!-- {% assign tags = site.tags | sort %}
+    <ul class="cloud">
+        {% for tag in tags %}
         {% if tag[0] != "destaque" and tag[0] != "top" %}
-        <span class="site-tag">
-            <p style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
-                    {{ tag[0] | replace:'-', ' ' }}
-                    {{ tag | last | size  |  times: 4 | plus: 80  }}
-            </p>
-        </span>
+        <li style="font-size: {{ tag | last | size  |  times: 5 | plus: 90  }}%">{{ tag[0] | replace:'-', ' ' }}</li>
+    </span>
         {% endif %}
-    {% endfor %}
-
+        {% endfor %}
+    </ul> -->
+    
+    <tagcloud>
+        {% capture tags %}
+        {% for tag in site.tags %}
+            {% if tag[0] != "destaque" and tag[0] != "top" %}
+                {{ tag[0] }}
+            {% endif %}
+        {% endfor %}
+        {% endcapture %}
+        
+        {% assign sortedTags = tags | split:" " | sort %}
+        <ul class="cloud">
+            {% for st in sortedTags %}
+            <li class="tag{{ site.tags[st].size }}">{{ st | tag_link }}</li>
+            {% endfor %}
+        </ul>
+    </tagcloud>
 
 </div> 

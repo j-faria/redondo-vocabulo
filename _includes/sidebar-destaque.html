@@ -1,7 +1,8 @@
 <div class="sticky-top sticky-top-offset">
     <h4 class="font-weight-bold spanborder"><span>Em destaque</span></h4>  
     <ol class="list-featured">				
-        {% for post in site.tags.destaque %}                
+        {% for post in site.posts %}
+            {% if post.tags contains "destaque" %}
             <li class="mb-4">
             <span>
                 <h6 class="font-weight-bold">
@@ -15,7 +16,24 @@
                     </span>
                 </span>
             </span>
-            </li>                
+            </li>
+            {% endif %}
         {% endfor %}   
     </ol>
+
+    <h4 class="font-weight-bold spanborder"><span>Temas</span></h4>
+
+    {% assign tags = site.tags | sort %}
+    {% for tag in tags %}
+        {% if tag[0] != "destaque" and tag[0] != "top" %}
+        <span class="site-tag">
+            <p style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
+                    {{ tag[0] | replace:'-', ' ' }}
+                    {{ tag | last | size  |  times: 4 | plus: 80  }}
+            </p>
+        </span>
+        {% endif %}
+    {% endfor %}
+
+
 </div> 

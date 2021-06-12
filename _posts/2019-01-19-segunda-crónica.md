@@ -4,9 +4,10 @@ title: Segunda Crónica
 author: isabel
 categories:
   - cronicando
-image: /assets/images/6.jpg
+image:
 tags: Política
 ---
+
 Cillum anim sunt est incididunt esse qui anim dolor sint. Nulla ut commodo labore amet eu proident. Esse ut proident non mollit magna amet officia consequat fugiat voluptate nostrud.
 
 Amet minim nisi cupidatat adipisicing aliquip mollit aute ullamco officia aute dolor labore reprehenderit. Veniam laborum in deserunt aliqua ut aliquip commodo anim id. In sit cupidatat et sit. In amet laboris nulla mollit occaecat cillum sunt cillum elit cupidatat cupidatat esse occaecat. Laborum et pariatur ad sit.

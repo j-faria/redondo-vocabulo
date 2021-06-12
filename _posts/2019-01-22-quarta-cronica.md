@@ -3,7 +3,7 @@ layout: post
 title:  "Quarta Crónica"
 author: sal
 categories: [ cronicando ]
-image: assets/images/14.jpg
+image: /assets/images/14.jpg
 tags: [destaque, BE]
 ---
 

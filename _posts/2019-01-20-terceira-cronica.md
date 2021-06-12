@@ -3,7 +3,7 @@ layout: post
 title:  "Terceira Crónica"
 author: isabel
 categories: [ cronicando ]
-image: assets/images/12.jpg
+image: /assets/images/12.jpg
 tags: 
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Outra opinião"
 author: isabel
 categories: [ opinando ]
-image: assets/images/13.jpg
+image: /assets/images/13.jpg
 ---
 
 

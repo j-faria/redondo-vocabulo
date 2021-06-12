@@ -5,8 +5,7 @@ author: isabel
 categories:
   - passeando
 image: /assets/images/4.jpg
-tags:
-  - serra
+tags: [Serra]
 ---
 Mollit irure quis laborum adipisicing mollit dolor voluptate reprehenderit sint ut aliquip officia. In esse minim ullamco pariatur velit excepteur ipsum nulla eiusmod pariatur aute. Sit laboris sunt esse ex enim aliquip. Commodo velit non ad commodo ut nulla reprehenderit amet officia laboris sunt eu magna. Tempor consectetur do cupidatat ex culpa sunt Lorem quis laboris amet reprehenderit deserunt laboris commodo. Sint do dolor eiusmod culpa elit nisi adipisicing nulla minim. Do esse adipisicing officia in voluptate fugiat dolor aliquip.
 

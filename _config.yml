@@ -1,5 +1,5 @@
 # Site
-name: 'Redondo Vocábulo'
+name: 'Um Redondo Vocábulo'
 description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -34,6 +34,7 @@ authors:
     #   bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
     #   email:          fakemail@gmail.com
     #   twitter:        https://twitter.com/wowthemesnet
+
  
 # Defaults
 defaults:
@@ -51,13 +52,15 @@ defaults:
       path: "_pages"
     values:
       layout: page
-      
+  
+
 # Syntax
 markdown: kramdown
 highlighter: rouge
 
 # Paginate
 paginate: 15
+
 
 
 

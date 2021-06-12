@@ -4,7 +4,7 @@ title:  "Quarta Crónica"
 author: sal
 categories: [ cronicando ]
 image: assets/images/14.jpg
-tags: destaque
+tags: [destaque, BE]
 ---
 
 I’ve been through fire and water, I tell you! From my earliest pebblehood the

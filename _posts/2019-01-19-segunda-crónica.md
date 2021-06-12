@@ -5,6 +5,7 @@ author: isabel
 categories:
   - cronicando
 image: /assets/images/6.jpg
+tags: Política
 ---
 Cillum anim sunt est incididunt esse qui anim dolor sint. Nulla ut commodo labore amet eu proident. Esse ut proident non mollit magna amet officia consequat fugiat voluptate nostrud.
 

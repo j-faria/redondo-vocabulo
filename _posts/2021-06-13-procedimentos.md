@@ -20,7 +20,7 @@ Quando a empresa onde trabalho fez altera&ccedil;&otilde;es ao Regulamento Inter
 
 Posto isto.
 
-As empresas privadas t&ecirc;m que cumprir a lei e os procedimentos legais. Como trabalhadores, os cidad&atilde;os t&ecirc;m o dever e o direito de alertar, denunciar, ou lutar, conforme a necessidade, para que as leis sejam cumpridas dentro das empresas. Como cidad&atilde;os h&aacute; organismos que devemos e podemos contactar para nos ajudar a cumprir a nossa fun&ccedil;&atilde;o de...cidad&atilde;os. No caso concreto de que falo a CNPD e a ACT.
+As empresas privadas t&ecirc;m que cumprir a lei e os procedimentos legais. Como trabalhadores, os cidad&atilde;os t&ecirc;m o dever e o direito de alertar, denunciar, ou lutar, conforme a necessidade, para que as leis sejam cumpridas dentro das empresas. Como cidad&atilde;os h&aacute; organismos que devemos e podemos contactar para nos ajudar a cumprir a nossa fun&ccedil;&atilde;o de…cidad&atilde;os. No caso concreto de que falo a CNPD e a ACT.
 
 Em organismos p&uacute;blicos, nas autarquias, nos servi&ccedil;os do estado, n&atilde;o h&aacute; trabalhadores? N&atilde;o h&aacute; cidad&atilde;os? N&atilde;o h&aacute; escrut&iacute;nio interno sobre procedimentos, regulamentos, cumprimento ou infra&ccedil;&atilde;o da Lei? E n&atilde;o estou a falar de responsabilidade pol&iacute;tica. Apenas, de cidadania e de profissionalismo..N&atilde;o h&aacute;?
 

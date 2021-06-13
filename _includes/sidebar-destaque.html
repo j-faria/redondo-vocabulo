@@ -39,12 +39,12 @@
         {% capture tags %}
         {% for tag in site.tags %}
             {% if tag[0] != "destaque" and tag[0] != "top" %}
-                {{ tag[0] }}
+                {{ tag[0] | replace:' ', '-' }}
             {% endif %}
         {% endfor %}
         {% endcapture %}
         
-        {% assign sortedTags = tags | split:" " | sort %}
+        {% assign sortedTags = tags %}
         <ul class="cloud">
             {% for st in sortedTags %}
             <li class="tag{{ site.tags[st].size }}">{{ st | tag_link }}</li>

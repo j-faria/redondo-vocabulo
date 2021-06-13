@@ -7,6 +7,7 @@ categories:
 image:
 tags:
   - Lisboa
+  - Em destaque
 ---
 Antes de entrar em vigor a Lei de Prote&ccedil;&atilde;o de Dados, a Comiss&atilde;o de Trabalhadores da empresa onde trabalho recebeu a informa&ccedil;&atilde;o sobre as medidas que iriam ser tomadas e, ao abrigo da Lei, foi-lhe, pela entidade patronal, solicitado um Parecer escrito. A nenhum de n&oacute;s, como trabalhadores e cidad&atilde;os nos passou pela cabe&ccedil;a assobiar para o lado.
 

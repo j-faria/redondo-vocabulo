@@ -10,14 +10,3 @@ Tentativa de voltar &agrave;s origens para contrariar o frenesim da escrita a co
 
 Bem vindos….<br>…quem vier por bem\!
 
-&nbsp;
-
-(cabe&ccedil;alho do Cronicando)
-
-**Sem qualquer ordem cronol&oacute;gica. Textos deixados por a&iacute; ao longo dos anos. Como se fossem p&aacute;ginas&nbsp; do livro que n&atilde;o tenho tempo, nem paci&ecirc;ncia, nem temeridade para escrever.**
-
-<br>(cabe&ccedil;alho do Opinando)
-
-<br>**Opini&otilde;es sobre o dia a dia do Pa&iacute;s e do Mundo. Escritas de resist&ecirc;ncia e de luta. Ou, apenas, de reflex&atilde;o. Actualizado ao sabor da vontade e da disponibilidade.**<br><br>(cabe&ccedil;alho do Passeando)
-
-**Viajar em Portugal. Comidas e dormidas com a cadeira de rodas do meu companheiro como guia..**

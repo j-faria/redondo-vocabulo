@@ -4,7 +4,7 @@ title: Porto Covo
 author: isabel
 categories:
   - Passeando
-image:
+image: /uploads/Portocovo.jpg
 tags:
   - Hoteis & Cª
 ---

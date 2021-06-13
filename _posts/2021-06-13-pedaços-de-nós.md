@@ -4,7 +4,7 @@ title: Pedaços de nós
 author: isabel
 categories:
   - cronicando
-image:
+image: /uploads/530038_399779616710289_1796799698_n.jpeg
 tags:
   - Memórias
   - Os nossos

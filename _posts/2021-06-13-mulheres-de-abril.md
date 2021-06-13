@@ -6,12 +6,7 @@ categories:
   - cronicando
 image: /Mulheresdeabril.jpeg
 tags:
-  - Campo
-  - Lisboa
-  - Política
-  - BE
   - 25 de Abril
-  - Alpiarça
 ---
 Nascemos ainda no Estado Novo.
 

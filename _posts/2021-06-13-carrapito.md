@@ -4,7 +4,7 @@ title: Carrapito
 author: isabel
 categories:
   - cronicando
-image: /carrapito.jpeg
+image: /uploads/aminhafilha.jpeg
 tags:
   - Memórias
 ---

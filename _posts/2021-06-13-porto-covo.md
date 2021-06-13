@@ -3,10 +3,10 @@ layout: post
 title: Porto Covo
 author: isabel
 categories:
-  - Passeando
+  - cronicando
 image:
 tags:
-  - Memórias
+  - Hoteis & Cª
 ---
 Fomos tr&ecirc;s dias de férias a Porto Covo.<br>Fic&aacute;mos no Poto Covo Hotel Apartamento.<br>Vem nos sites como acess&iacute;vel a cadeira de rodas e é vendido como tal, no contacto para reserva.
 
@@ -24,6 +24,6 @@ O que encontr&aacute;mos.
 
 \- O pequeno almo&ccedil;o foi-nos servido no quarto porque, devido ao Covid , o Buffet n&atilde;o estava a ser servido na sala habitual. A sala é no piso térreo. N&atilde;o a fui visitar. O Bar é no primeiro andar, com escadas.
 
-&nbsp;-&nbsp; H&aacute; uma&nbsp; grande disponibilidade de todos os funcion&aacute;rios, mas que n&atilde;o ser&aacute; suficiente para uma estadia mais longa ou sem ser acompanhado.<br><br>Comemos uma refei&ccedil;&atilde;o num Restaurante em Porto Covo. O Restaurante Miramar. A esplanada é acess&iacute;vel a cadeira de rodas. E até d&aacute; para ver o mar...Contrariamente a muitos restaurantes,&nbsp; uma cadeira manual, até entra debaixo da mesa sem problema....mas, pela vossa sa&uacute;de n&atilde;o sejam tentados. Comemos o pior arroz de peixe e marisco da nossa vida. valeu pelo Monte das Servas branco e bem frio.<br><br>Porto Covo é lindo. Mas fiquei com a sensa&ccedil;&atilde;o, aquando da procura de lugar para ficarmos, que n&atilde;o h&aacute; outra coisa mais acess&iacute;vel para ficar. Neste momento, e ainda com lugares para estacionar, passear e ver o mar é poss&iacute;vel. Tomar banho e carregar o tlm no hotel e carregar é que é mais complicado...
+&nbsp;-&nbsp; H&aacute; uma&nbsp; grande disponibilidade de todos os funcion&aacute;rios, mas que n&atilde;o ser&aacute; suficiente para uma estadia mais longa ou sem ser acompanhado.<br><br>Comemos uma refei&ccedil;&atilde;o num Restaurante em Porto Covo. O Restaurante Miramar. A esplanada é acess&iacute;vel a cadeira de rodas. E até d&aacute; para ver o mar…Contrariamente a muitos restaurantes,&nbsp; uma cadeira manual, até entra debaixo da mesa sem problema….mas, pela vossa sa&uacute;de n&atilde;o sejam tentados. Comemos o pior arroz de peixe e marisco da nossa vida. valeu pelo Monte das Servas branco e bem frio.<br><br>Porto Covo é lindo. Mas fiquei com a sensa&ccedil;&atilde;o, aquando da procura de lugar para ficarmos, que n&atilde;o h&aacute; outra coisa mais acess&iacute;vel para ficar. Neste momento, e ainda com lugares para estacionar, passear e ver o mar é poss&iacute;vel. Tomar banho e carregar o tlm no hotel e carregar é que é mais complicado…
 
-&nbsp;-<br>&nbsp;
+&nbsp;Nota: Relembro que estas publica&ccedil;&otilde;es falam, apenas, da acessibilidade para alguém que anda em cadeira de rodas manual e que é paraplégico.<br>&nbsp;

@@ -37,7 +37,7 @@ Mas muitas de n&oacute;s foram-se afastando da rua. Os anos do apogeu do neo-lib
 
 E hoje estamos aqui. Temos 40 e muitos, 50, 60 ou 70 anos. Desempregadas ou com trabalho prec&aacute;rio. Ou a trabalhar cada vez com menos direitos e menos dignidade. Temos filhos, companheiros, amigos e familiares sem trabalho. Perdemos casas e perdemos lutas. As ruas desocuparam-se de gente a lutar e ocuparam-se de gente sem vida e sem abrigo.
 
-Desam&aacute;mos e voltamos a amar. E desam&aacute;mos de novo...
+Desam&aacute;mos e voltamos a amar. E desam&aacute;mos de novo…
 
 Com os anos fomos perdendo pais, amigos, pessoas que nos fizeram.
 
@@ -45,7 +45,7 @@ Com os anos fomos perdendo pais, amigos, pessoas que nos fizeram.
 
 Olhamos os nossos filhos, algumas j&aacute; os nossos netos, e sentimos que falh&aacute;mos.
 
-Mas, teimosamente, sabendo que podemos estar a travar a nossa &uacute;ltima e mais decisiva luta, a luta por sermos dignos do passado que vivemos, a gente olha em frente, enche o peito de ar, lembra os passos dados com muitos que j&aacute; partiram, olha companheiros, amigos, filhos e netos, bem nos olhos, olhamo-nos ao espelho, em vez de cabelos brancos vemos flores no cabelo, limpamos l&aacute;grimas e cansa&ccedil;os...E vamos.
+Mas, teimosamente, sabendo que podemos estar a travar a nossa &uacute;ltima e mais decisiva luta, a luta por sermos dignos do passado que vivemos, a gente olha em frente, enche o peito de ar, lembra os passos dados com muitos que j&aacute; partiram, olha companheiros, amigos, filhos e netos, bem nos olhos, olhamo-nos ao espelho, em vez de cabelos brancos vemos flores no cabelo, limpamos l&aacute;grimas e cansa&ccedil;os…E vamos.
 
 O sonho ainda comanda a vida. E muitas de n&oacute;s, a maioria de n&oacute;s, acredito, n&atilde;o lhe apetece nada morrer. N&atilde;o desistimos. E tomamos esta decis&atilde;o, de novo e ainda, muito mais com o cora&ccedil;&atilde;o do que com a raz&atilde;o.<br><br>(Abril de 2014)
 

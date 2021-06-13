@@ -8,10 +8,17 @@ comments: true
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-10">
+            <h4 class="font-weight-bold spanborder text-capitalize" id="passeando">
+            <span>Passeando</span>
+            </h4>
+        <!--  -->
+        <p>
+        Viajar em Portugal. Comidas e dormidas com a cadeira de rodas do meu companheiro como guia..
+        </p>
+        <!--  -->
         <!-- <h1 class="font-weight-bold title h6 text-uppercase mb-4">Categories</h1> -->
         {% for category in site.categories %}
-        {% if category[0] == "passeando" %}
-        <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>{{ category[0] }}</span></h4>
+        {% if category[0] == "Passeando" %}
         <!--  -->
         {% assign pages_list = category[1] %}
         <!--  -->

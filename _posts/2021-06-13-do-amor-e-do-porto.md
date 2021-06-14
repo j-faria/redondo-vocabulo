@@ -2,6 +2,7 @@
 layout: post
 title: 'Do amor e do Porto '
 author: isabel
+# date: 2021-06-13 13:54:00
 categories:
   - cronicando
 image: /uploads/mãsdadas.jpeg

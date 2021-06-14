@@ -2,6 +2,7 @@
 layout: post
 title: Pedaços de nós
 author: isabel
+# date: 2021-06-13 13:54:00
 categories:
   - cronicando
 image: /uploads/530038_399779616710289_1796799698_n.jpeg

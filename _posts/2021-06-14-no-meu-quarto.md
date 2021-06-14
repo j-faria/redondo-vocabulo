@@ -2,6 +2,7 @@
 layout: post
 title: No meu quarto.
 author: isabel
+# date: 2021-06-13 13:54:00
 categories:
   - cronicando
 image: /uploads/anossacasa.jpeg

@@ -1,4 +1,6 @@
 <div class="sticky-top sticky-top-offset">
+
+    {% if site.destaque %}
     <h4 class="font-weight-bold spanborder"><span>Em destaque</span></h4>  
     <ol class="list-featured">				
         {% for post in site.posts %}
@@ -18,9 +20,10 @@
             </span>
             </li>
             {% endif %}
+
         {% endfor %}   
     </ol>
-
+    {% endif %}
     
     
     <h4 class="font-weight-bold spanborder"><span>Temas</span></h4>
@@ -40,8 +43,9 @@
         <ul class="cloud">
             {% for tag in site.tags %}
                 {% if tag[0] != "destaque" and tag[0] != "top" %}
+                {% assign tema = tag[0] | downcase | replace: ' ', '-' %}
                 <li class="tag{{ site.tags[st].size }}">
-                    <a href="{{site.baseurl}}/temas#{{ tag[0] | downcase }}">{{ tag[0] }}</a>
+                    <a href="{{site.baseurl}}/temas#{{ tema }}">{{ tag[0] }}</a>
                 </li>
                 {% endif %}
             {% endfor %}

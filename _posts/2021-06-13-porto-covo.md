@@ -27,6 +27,6 @@ O que encontr&aacute;mos.
 
 &nbsp;-&nbsp; H&aacute; uma&nbsp; grande disponibilidade de todos os funcion&aacute;rios, mas que n&atilde;o ser&aacute; suficiente para uma estadia mais longa ou sem ser acompanhado.<br><br>Comemos uma refei&ccedil;&atilde;o num Restaurante em Porto Covo. O Restaurante Miramar. A esplanada é acess&iacute;vel a cadeira de rodas. E até d&aacute; para ver o mar…Contrariamente a muitos restaurantes,&nbsp; uma cadeira manual, até entra debaixo da mesa sem problema….mas, pela vossa sa&uacute;de,&nbsp; n&atilde;o sejam tentados. Comemos o pior arroz de peixe e marisco da nossa vida. Valeu pelo Monte das Servas branco e bem frio.<br><br>Porto Covo é lindo. Mas fiquei com a sensa&ccedil;&atilde;o, aquando da procura de lugar para dormir, que n&atilde;o h&aacute; outra coisa mais acess&iacute;vel para ficar. Neste momento, para quem usa uma cadeira de rpdas, e ainda com lugares para estacionar, passear e ver o mar é poss&iacute;vel. Tomar banho e carregar o tlm no hotel é que é mais complicado…
 
-(Jundo de 2021)
+(Junho de 2021)
 
 &nbsp;Nota: Relembro que estas publica&ccedil;&otilde;es falam, apenas, da acessibilidade para alguém que anda em cadeira de rodas manual e que é paraplégico.<br>&nbsp;

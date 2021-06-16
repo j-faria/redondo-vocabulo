@@ -2,14 +2,13 @@
 layout: post
 title: Porto Covo
 author: isabel
-# date: 2021-06-13 13:54:00
 categories:
   - Passeando
 image: /uploads/Portocovo.jpg
 tags:
   - Hoteis & Cª
 ---
-Fomos tr&ecirc;s dias de férias a Porto Covo.<br>Fic&aacute;mos no Porto Covo Hotel Apartamento.<br>Vem nos sites como acess&iacute;vel a cadeira de rodas e é vendido como tal, no contacto para reserva.
+Fomos tr&ecirc;s dias de férias a Porto Covo. Eu j&aacute; n&atilde;o ia a Porto Covo h&aacute; mais de trinta anos. Acho que lembrar, lembrar, me lembrava da ilha.<br>Fic&aacute;mos no Porto Covo Hotel Apartamento.<br>Vem nos sites como acess&iacute;vel a cadeira de rodas e é vendido como tal, no contacto para reserva.
 
 O que encontr&aacute;mos.
 

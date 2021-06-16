@@ -3240,7 +3240,7 @@ input[type="button"].btn-block {
 .nav-tabs {
   border-bottom: 1px solid #dee2e6; }
   .nav-tabs .nav-item {
-    margin-bottom: -1px; }
+    margin-bottom: -1px;}
   .nav-tabs .nav-link {
     border: 1px solid transparent;
     border-top-left-radius: 0.25rem;
@@ -3303,7 +3303,7 @@ input[type="button"].btn-block {
   padding-top: 0.68rem;
   padding-bottom: 0.68rem;
   margin-right: 1rem;
-  font-size: 1.15rem;
+  /* font-size: 1.15rem; */
   line-height: inherit;
   white-space: nowrap; }
   .navbar-brand:hover, .navbar-brand:focus {

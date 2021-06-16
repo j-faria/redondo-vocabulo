@@ -12,11 +12,10 @@ permalink: "/dos-outros"
         </div>
         <div class="col-md-10">
         <p style="margin-bottom: 100px">
-        **descrição...**
+        Escritos e opiniões vindos de fora
         </p>
         <!--  -->
         <!--  -->
-        olá
         </div>
         
         

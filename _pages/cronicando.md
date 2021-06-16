@@ -2,8 +2,6 @@
 title: "Cronicando"
 layout: default
 permalink: "/cronicando"
-image: "/assets/images/screenshot.jpg"
-comments: true
 ---
 
 <div class="container">

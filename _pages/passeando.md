@@ -2,7 +2,6 @@
 title: "Passeando"
 layout: default
 permalink: "/passeando"
-comments: true
 ---
 
 <div class="container">

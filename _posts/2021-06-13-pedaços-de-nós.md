@@ -2,7 +2,6 @@
 layout: post
 title: Pedaços de nós
 author: isabel
-# date: 2021-06-13 13:54:00
 categories:
   - cronicando
 image: /uploads/530038_399779616710289_1796799698_n.jpeg
@@ -10,11 +9,7 @@ tags:
   - Memórias
   - Os nossos
 ---
-"Se até estiveste contra ele tantas vezes, porque é que te custa a sua morte?".
-
-"Se o combateste grande parte da vida, porque é que te custa a sua morte?".
-
-"J&aacute; estava na idade, p&aacute;. Chegou a sua hora. Porque é que te custa a sua morte?".
+"Se até estiveste contra ele tantas vezes, porque é que te custa a sua morte?". "Se o combateste grande parte da vida, porque é que te custa a sua morte?". "J&aacute; estava na idade, p&aacute;. Chegou a sua hora. Porque é que te custa a sua morte?".
 
 "Até podia ser bom escritor, ou realizador, ou actor, ou m&uacute;sico, ou poeta, mas era arrogante, ou um bocado reacion&aacute;rio, ou elitista, mas esteve na campanha de a, ou de b, apoiou c ou d, porque é que te custa tanto a sua morte?".
 

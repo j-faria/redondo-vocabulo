@@ -10,7 +10,8 @@ permalink: "/temas"
             
         {% for tag in site.tags %} 
           {% if tag[0] != "top" %}
-            <h4 class="font-weight-bold spanborder text-capitalize" id="{{ tag[0] | downcase }}"><span>{{ tag[0] }}</span></h4>
+            {% assign tema = tag[0] | downcase | replace: ' ', '-' %}
+            <h4 class="font-weight-bold spanborder text-capitalize" id="{{ tema }}"><span>{{ tag[0] }}</span></h4>
                 
             {% assign pages_list = tag[1] %}
             {% for post in pages_list %}

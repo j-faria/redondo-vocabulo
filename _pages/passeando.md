@@ -7,16 +7,16 @@ comments: true
 
 <div class="container">
     <div class="row justify-content-center">
-        <div class="col-md-10">
-            <h4 class="font-weight-bold spanborder text-capitalize" id="passeando">
-            <span>Passeando</span>
-            </h4>
         <!--  -->
-        <p>
+        <div class="col-md-10" style="margin-top:50px">
+        <h4 class="text-uppercase text-danger font-weight-bold">PASSEANDO</h4>
+        </div>
+        <div class="col-md-10">
+        <p style="margin-bottom: 100px">
         Viajar em Portugal. Comidas e dormidas com a cadeira de rodas do meu companheiro como guia..
         </p>
         <!--  -->
-        <!-- <h1 class="font-weight-bold title h6 text-uppercase mb-4">Categories</h1> -->
+        <!--  -->
         {% for category in site.categories %}
         {% if category[0] == "Passeando" %}
         <!--  -->

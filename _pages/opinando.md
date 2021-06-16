@@ -6,20 +6,20 @@ permalink: "/opinando"
 
 <div class="container">
     <div class="row justify-content-center">
+        <!--  -->
+        <div class="col-md-10" style="margin-top:50px">
+        <h4 class="text-uppercase text-danger font-weight-bold">PASSEANDO</h4>
+        </div>
         <div class="col-md-10">
-        <!-- <h1 class="font-weight-bold title h6 text-uppercase mb-4">Categories</h1> -->
-        <h4 class="font-weight-bold spanborder text-capitalize" id="opinando">
-            <span>Opinando</span>
-        </h4>
-        <p>
+        <p style="margin-bottom: 100px">
         Opini&otilde;es sobre o dia a dia do Pa&iacute;s e do Mundo. 
         Escritas de resist&ecirc;ncia e de luta. 
         Ou, apenas, de reflex&atilde;o. Actualizado ao sabor da vontade e da disponibilidade.
         </p>
-
+        <!--  -->
+        <!--  -->
         {% for category in site.categories %}
         {% if category[0] == "Opinando" %}
-
         <!--  -->
         {% assign pages_list = category[1] %}
         <!--  -->

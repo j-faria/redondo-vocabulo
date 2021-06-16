@@ -2,16 +2,13 @@
 layout: post
 title: Mulheres de Abril
 author: isabel
-# date: 2021-06-13 13:54:00
 categories:
   - cronicando
 image: /Mulheresdeabril.jpeg
 tags:
   - 25 de Abril
 ---
-Nascemos ainda no Estado Novo.
-
-Vimos pais, irm&atilde;os, amigos, vizinhos, serem presos pela PIDE ou partirem para a guerra colonial.
+Nascemos ainda no Estado Novo. Vimos pais, irm&atilde;os, amigos, vizinhos, serem presos pela PIDE ou partirem para a guerra colonial.
 
 Algumas ainda cheg&aacute;mos a aprender a ler nas entrelinhas da censura. Ouvimos o Zeca, o Lu&iacute;s Cilia, o Adriano, o Sérgio, o Manuel Freire, o Fanhais e o Zé M&aacute;rio, &agrave;s escondidas dos homens de gabardina cinzenta e dos delatores t&atilde;o cinzentos como eles, com o gira-discos baixinho e a alma aos gritos.&nbsp; Quando escut&aacute;mos pela primeira vez a Pedra Filosofal percebemos que o mundo poderia pular e avan&ccedil;ar nas nossas m&atilde;os de meninas ou de jovens mulheres. E, muitas de n&oacute;s, decidimos logo a&iacute; que n&atilde;o ir&iacute;amos desistir. Era uma decis&atilde;o tomada mais com cora&ccedil;&atilde;o do que com a raz&atilde;o, a maioria das vezes. Como devem ser tomadas as decis&otilde;es importantes, pens&aacute;vamos ent&atilde;o.
 

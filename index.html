@@ -63,6 +63,7 @@ description:
         <h4 class="font-weight-bold spanborder"><span>Todas as Histórias</span></h4>
 
         {% for post in paginator.posts %}
+            {% if post.tags[0] != "top" %}
             <div class="mb-5 d-flex justify-content-between">
                 <div class="pr-3">
                     <a href="{{site.baseurl}}{{post.url}}">
@@ -82,6 +83,7 @@ description:
                     </div>
                 {% endif %}
             </div>
+            {% endif %}
         {% endfor %}
         
         <!-- Pagination links -->

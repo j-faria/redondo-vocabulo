@@ -7,11 +7,21 @@ permalink: "/temas"
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
-            
-        {% for tag in site.tags %} 
+
+          {% for tag in site.tags %} 
           {% if tag[0] != "top" %}
-            {% assign tema = tag[0] | downcase | replace: ' ', '-' %}
-            <h4 class="font-weight-bold spanborder text-capitalize" id="{{ tema }}"><span>{{ tag[0] }}</span></h4>
+            {% assign tema = tag[0] | downcase | url_encode %}
+            <!-- replace odd characters -->
+            {% assign tema = tema | replace: "%C3%B5", "o" %}
+            {% assign tema = tema | replace: "%C3%B3", "o" %}
+            {% assign tema = tema | replace: "%C3%A1", "a" %}
+            {% assign tema = tema | replace: "%C2%AA", "a" %}
+            {% assign tema = tema | replace: "%26", "e" %}
+            {% assign tema = tema | replace: "+", "-" %}
+            <!--  -->
+            <h4 class="font-weight-bold fullborder text-capitalize" id="{{ tema }}">
+              <span>{{ tag[0] }}</span>
+            </h4>
                 
             {% assign pages_list = tag[1] %}
             {% for post in pages_list %}

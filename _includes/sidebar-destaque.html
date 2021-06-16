@@ -43,7 +43,15 @@
         <ul class="cloud">
             {% for tag in site.tags %}
                 {% if tag[0] != "destaque" and tag[0] != "top" %}
-                {% assign tema = tag[0] | downcase | replace: ' ', '-' %}
+                {% assign tema = tag[0] | downcase | url_encode %}
+                <!-- replace odd characters -->
+                {% assign tema = tema | replace: "%C3%B5", "o" %}
+                {% assign tema = tema | replace: "%C3%B3", "o" %}
+                {% assign tema = tema | replace: "%C3%A1", "a" %}
+                {% assign tema = tema | replace: "%C2%AA", "a" %}
+                {% assign tema = tema | replace: "%26", "e" %}
+                {% assign tema = tema | replace: "+", "-" %}
+                <!--  -->
                 <li class="tag{{ site.tags[st].size }}">
                     <a href="{{site.baseurl}}/temas#{{ tema }}">{{ tag[0] }}</a>
                 </li>

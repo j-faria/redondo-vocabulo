@@ -9,9 +9,7 @@ tags:
   - Lisboa
   - Memórias
 ---
-Uma loja da Guerra Junqueiro no final da tarde.
-
-Enquanto a menina do balc&atilde;o embrulhava as minhas coisas, atr&aacute;s de mim uma senhora idosa pagava um vasinho com uma vela com cheiro a lavanda. Era uma senhora bem vestida, cabelo pintado,&nbsp; de voz suave e olhar simp&aacute;tico. Uma senhora idosa como eu imagino as senhoras idosas simp&aacute;ticas da Av de Roma.&nbsp;
+Uma loja da Guerra Junqueiro no final da tarde. Enquanto a menina do balc&atilde;o embrulhava as minhas coisas, atr&aacute;s de mim uma senhora idosa pagava um vasinho com uma vela com cheiro a lavanda. Era uma senhora bem vestida, cabelo pintado,&nbsp; de voz suave e olhar simp&aacute;tico. Uma senhora idosa como eu imagino as senhoras idosas simp&aacute;ticas da Av de Roma.&nbsp;
 
 Sa&iacute;mos as duas ao mesmo tempo. Primeiro eu, segurei-lhe a porta, depois ela. Ao sair espirrou. "Santinho", disse-lhe eu. Sorri-lhe.&nbsp;
 

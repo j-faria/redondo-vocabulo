@@ -27,4 +27,4 @@ Por isso, Portugal n&atilde;o escolheu entre o lado da R&uacute;ssia e o outro p
 
 Mas, e isto, essencialmente para os Outros, convém n&atilde;o esquecer que a R&uacute;ssia de hoje n&atilde;o é a Uni&atilde;o Soviética de 1917, nem a de 1922, sequer de 1984.&nbsp; &Eacute; outra coisa. T&atilde;o pouco ou ainda menos recomend&aacute;vel do que os bons do sr. primeiro ministro e do seu Partido no tal PREC.
 
-.Espero ter ajudado.
+Espero ter ajudado.

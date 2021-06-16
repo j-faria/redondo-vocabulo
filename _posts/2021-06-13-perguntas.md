@@ -2,16 +2,13 @@
 layout: post
 title: Perguntas
 author: isabel
-# date: 2021-06-13 13:54:00
 categories:
   - Opinando
 image:
 tags:
   - Lisboa
 ---
-Baseado em que Lei, a CML enviava para as embaixadas dos pa&iacute;ses visados nas manifs os dados dos organizadores?
-
-Se n&atilde;o era baseado em nenhuma lei, quem o fazia? Desde quando o fazia? Quem sabia? Hierarquicamente, quero dizer. Hierarquicamente do ponto de vista profissional e da responsabilidade pol&iacute;tica. Era baseado num regulamento interno? Numa ordem se servi&ccedil;o? Feitos por quem? Quando?
+Baseado em que Lei, a CML enviava para as embaixadas dos pa&iacute;ses visados nas manifs os dados dos organizadores? Se n&atilde;o era baseado em nenhuma lei, quem o fazia? Desde quando o fazia? Quem sabia? Hierarquicamente, quero dizer. Hierarquicamente do ponto de vista profissional e da responsabilidade pol&iacute;tica. Era baseado num regulamento interno? Numa ordem se servi&ccedil;o? Feitos por quem? Quando?
 
 Que outras c&acirc;maras o fazem?
 

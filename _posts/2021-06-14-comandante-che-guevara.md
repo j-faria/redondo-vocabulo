@@ -2,18 +2,13 @@
 layout: post
 title: Comandante Che Guevara
 author: isabel
-# date: 2021-06-13 13:54:00
 categories:
   - Opinando
 image: /uploads/che.jpeg
 tags:
   - Os nossos
 ---
-Na nossa imagina&ccedil;&atilde;o juvenil, os her&oacute;is n&atilde;o se cansam.
-
-N&atilde;o param. N&atilde;o t&ecirc;m d&uacute;vidas. N&atilde;o hesitam. N&atilde;o dormem.
-
-O Che que tinha escondido na gaveta da c&oacute;moda, antes de Abril, postalinho pequeno dado por um amigo, e depois de Abril, poster grande,pendurado na parede por cima da cama,&nbsp; era o Che da foto de Korda.
+Na nossa imagina&ccedil;&atilde;o juvenil, os her&oacute;is n&atilde;o se cansam. N&atilde;o param. N&atilde;o t&ecirc;m d&uacute;vidas. N&atilde;o hesitam. N&atilde;o dormem. O Che que tinha escondido na gaveta da c&oacute;moda, antes de Abril, postalinho pequeno dado por um amigo, e depois de Abril, poster grande,pendurado na parede por cima da cama,&nbsp; era o Che da foto de Korda.
 
 S&oacute; muito mais tarde, aprendi, com m&aacute;goa, desesperan&ccedil;a e dor, que os her&oacute;is até morrem. Ou n&atilde;o. Felizmente, aprendi que h&aacute; os que nunca nos morrem.
 

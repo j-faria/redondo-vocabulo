@@ -2,7 +2,6 @@
 layout: post
 title: No meu quarto.
 author: isabel
-# date: 2021-06-13 13:54:00
 categories:
   - cronicando
 image: /uploads/anossacasa.jpeg
@@ -11,11 +10,7 @@ tags:
   - Os nossos
   - Os Meus
 ---
-Esta era a nossa casa.
-
-A primeira janela &agrave; direita da casa, aquela sozinhinha, era a do meu quarto.
-
-No meu quarto eu tive sarampo, e embrulharam-me num cobertor vermelho. No meu quarto eu escondi a foto do Che debaixo do colch&atilde;o e coloquei um posterzinho com uma frase fofa sobre um p&aacute;ssaro e o amor, &agrave; vista, em cima da cama. Ou o amor ser um p&aacute;ssaro, ou assim.
+Esta era a nossa casa.&nbsp; A primeira janela &agrave; direita da casa, aquela sozinhinha, era a do meu quarto. No meu quarto eu tive sarampo, e embrulharam-me num cobertor vermelho. No meu quarto eu escondi a foto do Che debaixo do colch&atilde;o e coloquei um posterzinho com uma frase fofa sobre um p&aacute;ssaro e o amor, &agrave; vista, em cima da cama. Ou o amor ser um p&aacute;ssaro, ou assim.
 
 No meu quarto eu tive medo quando o meu pai n&atilde;o estava, e quando ele estava e a noite se enchia de passos. Compassados. Sempre iguais. Passos cinzentos que enchiam sempre a gente, mesmo cachopitas, de negros pesadelos.
 

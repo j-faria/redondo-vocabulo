@@ -7,6 +7,7 @@ categories:
 image:
 tags:
   - Reflexões
+comments: true
 ---
 Em 1974 e 1975 havia um pa&iacute;s chamado Uni&atilde;o Soviética. Uni&atilde;o das Rep&uacute;blicas Socialistas Soviéticas. Esse pa&iacute;s inclu&iacute;a a R&uacute;ssia e mais uma catrefa de Rep&uacute;blicas, a maioria com nomes esquisitos.
 

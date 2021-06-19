@@ -2,6 +2,9 @@
 title: "Opinando"
 layout: default
 permalink: "/opinando"
+pagination: 
+  enabled: true
+  category: Opinando
 ---
 
 <div class="container">
@@ -18,25 +21,9 @@ permalink: "/opinando"
         </p>
         <!--  -->
         <!--  -->
-        {% for category in site.categories %}
-        {% if category[0] == "Opinando" %}
-        <!--  -->
-        {% assign pages_list = category[1] %}
-        <!--  -->
-        {% for post in pages_list %}
-            {% if post.title != null %}
-                {% if group == null or group == post.group %}
-                    {% include main-loop-card.html %}
-                {% endif %}
-            {% endif %}
+        {% for post in paginator.posts %}
+            {% include main-loop-card.html %}
         {% endfor %}
-        {% assign pages_list = nil %}
-        {% assign group = nil %}
-        {% endif %}
-        {% endfor %}
-
         </div>
-        
-        
     </div>
 </div>

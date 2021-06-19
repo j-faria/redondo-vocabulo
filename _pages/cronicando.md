@@ -2,6 +2,9 @@
 title: "Cronicando"
 layout: default
 permalink: "/cronicando"
+pagination: 
+  enabled: true
+  category: Cronicando
 ---
 
 <div class="container">
@@ -18,26 +21,9 @@ permalink: "/cronicando"
         nem paci&ecirc;ncia, nem temeridade para escrever.
         </p>
         <!--  -->
-        <!--  -->
-        {% for category in site.categories %}
-        {% if category[0] == "cronicando" %}
-        <!--  -->
-        {% assign pages_list = category[1] %}
-        <!--  -->
-        {% for post in pages_list %}
-            {% if post.title != null %}
-                {% if group == null or group == post.group %}
-                    {% include main-loop-card.html %}
-                {% endif %}
-            {% endif %}
+        {% for post in paginator.posts %}
+            {% include main-loop-card.html %}
         {% endfor %}
-        {% assign pages_list = nil %}
-        {% assign group = nil %}
-        {% endif %}
-        {% endfor %}
-
         </div>
-        
-        
     </div>
 </div>

@@ -207,6 +207,7 @@ a.text-dark:hover {
     padding-top: 0.68rem;
     padding-bottom: 0.68rem;
     line-height: inherit;
+    white-space: nowrap;
     font-size:2rem;
     font-family:"Georgia","Times New Roman",serif;
 }
@@ -813,4 +814,19 @@ div.a2a_full_footer {display:none;}
          height:280px !Important;
      }
  }
- 
+
+.post-image
+    figure {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin: 1px;
+    }
+    figure img {
+        vertical-align: top;
+        margin-bottom: 10px;
+    }
+    figure figcaption {
+        text-align: center;
+    }

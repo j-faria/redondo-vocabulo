@@ -7,52 +7,42 @@ description:
 image: /assets/images/blog.jpg
 ---
 
-<div class="container">
 
-{% if page.url == "/" %}
+<div class="container">
     
-    
-    
-<!-- Begin post excerpts, let's highlight the first 4 posts on top -->
 <div class="row remove-site-content-margin">
     
-    <!-- "top" post -->
-    <!-- {% assign latest_post = site.posts[0] %} -->
-    {% for post in site.posts %} 
-    {% if post.tags contains "top" %}
     <div class="col-md-12">
         <div class="card border-0 mb-4 box-shadow">   
-        <div class="topfirstimage" 
-             style="background-image: url({{post.image}}); height: 250px; background-size: cover; background-repeat:no-repeat;">
+            <div class="topfirstimage" 
+            style="background-image: url(/assets/images/blog.jpg); height: 250px; background-size: cover; background-repeat:no-repeat;">
         </div>     
         
         <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
-            <h2 class="h4 font-weight-bold">{{post.title }}</h2>
-            <p class="excerpt">{{ post.excerpt }}</p>
+            <h2 class="h4 font-weight-bold">Seja bem vindo quem vier por bem</h2>
+            <p>
+                Tentativa de voltar às origens para contrariar o frenesim da
+                escrita a correr, sobre tudo e sobre nada. 
+                <!--  -->
+                Recolha de textos antigos, deixados por aí.
+                Opiniões. Viagens. 
+                <!--  -->
+                Este sitio é, sobretudo, uma sequência de "Momentos".
+                <!--  -->
+                Um sitio de Esquerda. Feito da margem Esquerda da
+                vida e da politica. Com hesitações e com dúvidas, seguramente. 
+                Mas sem concessões.
+            </p>
+            <p>Bem vindos... quem vier por bem!</p>
             <div>
-                <!-- <small class="d-block text-muted">
-                    In <span class="catlist">
-                        {% for category in post.categories %}
-                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
-                        {% endfor %}
-                        </span>
-                </small> -->
-                <!-- <small class="text-muted">
-                    {{ post.date | date: '%b %d, %Y' }}
-                </small> -->
             </div>
         </div>
-        </div>
     </div>
-    {% endif %}
-    {% endfor %}
-
-    
 </div>
-    
 
-{% endif %} <!--endif page url is / -->
-    
+
+</div>
+
 
 
 <!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->

@@ -1,6 +1,6 @@
 # Site
 name: 'Um Redondo Vocábulo'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+description: 'Seja bem vindo quem vier por bem'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
@@ -50,6 +50,7 @@ defaults:
       layout: post
       author: isabel
       avatar: /assets/images/avatar1.jpg
+      is_post: true
       
   # all pages
   - scope:

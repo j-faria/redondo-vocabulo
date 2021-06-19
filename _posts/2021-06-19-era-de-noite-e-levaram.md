@@ -10,9 +10,7 @@ tags:
   - 25 de Abril
   - Os nossos
 ---
-Noite de 13 de outubro de 1962.
-
-Tinha dois anos e meio e levaram o meu pai. Nunca saberei se a mem&oacute;ria que tenho dessa noite e dos dias que se lhe seguiram é real ou constru&iacute;da. Possivelmente n&atilde;o se guarda mem&oacute;rias de menina quase ainda bebé.&nbsp;
+Noite de 13 de outubro de 1962. Tinha dois anos e meio e levaram o meu pai. Nunca saberei se a mem&oacute;ria que tenho dessa noite e dos dias que se lhe seguiram é real ou constru&iacute;da. Possivelmente n&atilde;o se guarda mem&oacute;rias de menina quase ainda bebé.&nbsp;
 
 Mas seja uma ou outra, uma certeza tenho: foi essa mem&oacute;ria primeira de mim, do meu pai a ser levado por uns homens de gabardine cinzenta, da minha m&atilde;e a chorar e de eu a chorar agarrada &agrave; sua camisa de dormir, que me fez para toda a vida. Isto é, a certeza que n&atilde;o seria eu, o que fui, o que sou,&nbsp; sem esta mem&oacute;ria que me acompanha h&aacute; 55 anos.
 

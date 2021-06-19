@@ -4,7 +4,7 @@ title: Mulheres de Abril
 author: isabel
 categories:
   - cronicando
-image: /Mulheresdeabril.jpeg
+image: /uploads/Mulheresdeabril.jpeg
 tags:
   - 25 de Abril
 ---

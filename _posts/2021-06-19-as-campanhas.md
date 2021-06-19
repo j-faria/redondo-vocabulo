@@ -4,7 +4,7 @@ title: As Campanhas
 author: isabel
 categories:
   - cronicando
-image: /uploads/LurdeseMiguel.jpeg
+image: /uploads/530038_399779616710289_1796799698_n.jpeg
 tags:
   - Lisboa
   - Memórias

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: O arraial da extema direita
+title: O arraial da extrema direita
 author: isabel
 categories:
   - Opinando

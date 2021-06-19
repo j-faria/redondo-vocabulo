@@ -35,7 +35,11 @@ authors:
     #   email:          fakemail@gmail.com
     #   twitter:        https://twitter.com/wowthemesnet
 
- 
+
+collections:
+  links:
+    output: false
+
 # Defaults
 defaults:
 

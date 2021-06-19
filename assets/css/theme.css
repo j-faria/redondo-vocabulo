@@ -204,9 +204,16 @@ a.text-dark:hover {
 }
 .navbar-brand {
     margin-right:2rem;
+    padding-top: 0.68rem;
+    padding-bottom: 0.68rem;
+    line-height: inherit;
     font-size:2rem;
     font-family:"Georgia","Times New Roman",serif;
 }
+@media (max-width: 575.98px) {
+    .navbar-brand {font-size: 7vw;}
+}
+
 .dropdown-item {
     font-weight:400;
 }

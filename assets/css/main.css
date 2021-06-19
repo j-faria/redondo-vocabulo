@@ -3297,15 +3297,16 @@ input[type="button"].btn-block {
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between; }
-
+/* 
 .navbar-brand {
   display: inline-block;
   padding-top: 0.68rem;
   padding-bottom: 0.68rem;
   margin-right: 1rem;
-  /* font-size: 1.15rem; */
   line-height: inherit;
-  white-space: nowrap; }
+  white-space: nowrap;
+} 
+*/
   .navbar-brand:hover, .navbar-brand:focus {
     text-decoration: none; }
 

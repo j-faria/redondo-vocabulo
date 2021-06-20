@@ -9,3 +9,4 @@ legenda: Chico Buarque faz hoje 77 anos.
 tags:
   - Os nossos
 ---
+![](/uploads/chico-grande.jpeg){: width="768" height="512"}

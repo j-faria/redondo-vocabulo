@@ -3,8 +3,7 @@ layout: post-imagem
 title: Chico Buarque
 author: isabel
 categories:
-  - Passeando
+  - Opinando
 image: /uploads/chico.jpeg
-legenda: Isto é a legenda da figura.
+legenda: Parabéns Chico pelos 77 anos!
 ---
-Pode ter mais texto aqui

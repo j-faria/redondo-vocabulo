@@ -4,7 +4,7 @@ title: Chico Buarque
 author: isabel
 categories:
   - Passeando
-image: /uploads/Portocovo2.jpg
+image: /uploads/chico.jpeg
 legenda: Isto é a legenda da figura.
 ---
 Pode ter mais texto aqui

@@ -4,11 +4,11 @@ title: Assédio no autocarro
 author: isabel
 categories:
   - Opinando
-image:
+image: /uploads/assedio.png
 tags:
   - Reflexões
 ---
-Uma mulher, quase menina ainda, apanhou um autocarro para ir para a escola. O motorista do autocarro assedia-a ainda nem a viagem come&ccedil;ou. A rapariga grava o assédio e publica nas redes sociais.<br><br>A grava&ccedil;&atilde;o come&ccedil;a quando a rapariga j&aacute; est&aacute; sentada no &uacute;ltimo lugar e o assediador est&aacute; em pé, encostado a ela. O assediador que é o motorista est&aacute; , em pé,encostado &agrave; rapariga no ultimo lugar do autocarro. A rapariga é a &uacute;nica passageira. Est&aacute; sozinha. Ela e um assediador, encorpado, bem mais velho que ela com um volante a jeito.<br><br>Na grava&ccedil;&atilde;o ouve-se a rapariga de 14 anos a pedir reiteradamente ao homem que se v&aacute;&nbsp; embora, que conduza o autocarro. Que se afaste. O homem entre risos alarves diz-lhe que o que queria mesmo n&atilde;o era conduzir, era outra coisa..."sabes o que é n&atilde;o sabes?? E tu n&atilde;o queres?". A mulher, quase menina ainda, volta a dizer que n&atilde;o e para ele se ir embora.
+Uma mulher, quase menina ainda, apanhou um autocarro para ir para a escola. O motorista do autocarro assedia-a ainda nem a viagem come&ccedil;ou. A rapariga grava o assédio e publica nas redes sociais.<br><br>A grava&ccedil;&atilde;o come&ccedil;a quando a rapariga j&aacute; est&aacute; sentada no &uacute;ltimo lugar e o assediador est&aacute; em pé, encostado a ela. O assediador que é o motorista est&aacute; , em pé,encostado &agrave; rapariga no ultimo lugar do autocarro. A rapariga é a &uacute;nica passageira. Est&aacute; sozinha. Ela e um assediador, encorpado, bem mais velho que ela com um volante a jeito.<br><br>Na grava&ccedil;&atilde;o ouve-se a rapariga de 14 anos a pedir reiteradamente ao homem que se v&aacute;&nbsp; embora, que conduza o autocarro. Que se afaste. O homem entre risos alarves diz-lhe que o que queria mesmo n&atilde;o era conduzir, era outra coisa…"sabes o que é n&atilde;o sabes?? E tu n&atilde;o queres?". A mulher, quase menina ainda, volta a dizer que n&atilde;o e para ele se ir embora.
 
 A menina enquanto fala, algumas vezes, ri. Aquele riso nervoso que a todos n&oacute;s, tenho a certeza que a todos n&oacute;s, j&aacute; saiu em momentos de afli&ccedil;&atilde;o, de medo e de impot&ecirc;ncia. Até em vel&oacute;rios, perante o dor da morte de alguém, algumas vezes j&aacute; saiu, tenho a certeza..
 

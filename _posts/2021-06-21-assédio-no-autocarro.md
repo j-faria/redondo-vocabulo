@@ -16,6 +16,8 @@ Nas caixas de coment&aacute;rios dos jornais que partilham o video e que d&atild
 
 Estes coment&aacute;rios que pesquei, entre muitos outros, s&atilde;o de mulheres. N&atilde;o sei se s&atilde;o mais aterradores por serem de mulheres. Mas mais nojentos s&atilde;o.<br>Ali&aacute;s talvez deva acrescentar que na caixa de coment&aacute;rios que vi, os coment&aacute;rios alarves e machistas de homens s&atilde;o todos de alguém que tem no seu mural alguma alus&atilde;o, algum link, alguma meme que o associa ou pode associar &agrave; extrema direita.<br>As mulheres n&atilde;o. Nos perfis das mulheres que defendem o assediador n&atilde;o se fala de politica.&nbsp; H&aacute; fotos com filhos, com netos, com o marido, com gatos, h&aacute; cita&ccedil;&otilde;es, preces a Deus, muitas flores, partilhas de c&atilde;ezinhos desaparecidos.&nbsp;
 
-Este &uacute;ltimo par&aacute;grafo n&atilde;o pretende ser nenhuma an&aacute;lise sociol&oacute;gica. Longe disso. Apenas uma constata&ccedil;&atilde;o. E uma forma de vos dizer para n&atilde;o serem masoquistas como eu. N&atilde;o leiam as caixas de coment&aacute;rios dos jornais. Nem que seja s&oacute; de longe em longe. N&atilde;o nos faz bem. Nem traz nada &agrave; luta que temos que fazer contra as trevas e a desumanidade.
+Este &uacute;ltimo par&aacute;grafo n&atilde;o pretende ser nenhuma an&aacute;lise sociol&oacute;gica. Longe disso. Apenas uma constata&ccedil;&atilde;o. E uma forma de vos dizer para n&atilde;o serem masoquistas como eu. N&atilde;o leiam as caixas de coment&aacute;rios dos jornais. Nem que seja s&oacute; de longe em longe. N&atilde;o nos faz bem. Nem traz nada &agrave; luta que temos que fazer contra as trevas, o machismo e a desumanidade.
+
+(Foto dos jornais)
 
 <br>.<br>&nbsp;

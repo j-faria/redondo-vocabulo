@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Perguntas
+title: Da homofobia
 author: isabel
 categories:
-  - Opinando
+  - Lendo
 image:
 tags:
-  - Lisboa
+  - Dos jornais
 ---
 &laquo;Ruan Filipe estava perto de casa, em Bournemouth, Inglaterra, a fumar um cigarro quando foi abordado por um grupo de homens que lhe pediram isqueiro. Quando lhes passou o isqueiro, agarraram-lhe no bra&ccedil;o e convidaram-no a juntar-se a eles no carro. O convite foi rejeitado pelo jovem de 21 anos, natural de Santa Maria da Feira.
 
@@ -32,6 +32,4 @@ Procurar uma organiza&ccedil;&atilde;o de apoio &agrave; v&iacute;tima pode tamb
 
 O essencial, relembra, é que “n&atilde;o sejam as pr&oacute;prias for&ccedil;as de seguran&ccedil;a a fazer surgir novamente sentimentos de d&uacute;vida e incapacidade das pr&oacute;prias v&iacute;timas”.&raquo;
 
-MARIANA DUR&Atilde;ES
-
-<br>[https://www.publico.pt/](https://www.publico.pt/){: target="_blank" rel="noopener"}
+MARIANA DUR&Atilde;ES<br>[https://www.publico.pt/](https://www.publico.pt/){: target="_blank" rel="noopener"}

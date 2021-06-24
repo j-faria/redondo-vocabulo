@@ -1,0 +1,21 @@
+<div class="linkpreview-wrapper">
+    <div class="linkpreview-body">
+        <div class="linkpreview-source">
+            {% assign domain = link_domain | replace: 'org-', '' %}
+            Tirado de <a href="https://{{ domain }}">{{ domain }}</a>
+        </div>
+        <div class="linkpreview-title mb-1 h4 font-weight-bold">
+            <a href="{{ link_url }}">{{ link_title }}</a>
+        </div>
+        <a href="{{ link_url }}">
+            <div class="linkpreview-description excerpt">
+                {{ link_description }}
+            </div>
+        </a>
+    </div>
+    <div class="linkpreview-image">
+        <a href="{{ link_url }}">
+            <img src="{{ link_image }}" alt="">
+        </a>
+    </div>
+</div>

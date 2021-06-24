@@ -389,6 +389,10 @@ a.text-dark:hover {
 .bg-lightblue {
     fill:#e8f3ec !important;
 }
+.main-loop-card {
+    min-height: 200px;
+    border-bottom: 1px solid rgba(0,0,0,0.3);
+}
 .card .date {
     position:absolute;
     top:20px;

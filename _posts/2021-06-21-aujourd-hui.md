@@ -3,7 +3,7 @@ layout: post
 title: Aujourd' hui
 author: isabel
 categories:
-  - cronicando
+  - Cronicando
 image: /uploads/plonge.jpeg
 tags:
   - Memórias

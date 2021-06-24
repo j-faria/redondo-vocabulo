@@ -3,12 +3,21 @@ layout: default
 ---
 
 <div class="container">
-<h3 class="font-weight-bold spanborder"><span>{{page.title}}</span></h3>
-<div class="page-content">
-{{ content }}
-<!-- Comments -->
-{% if page.comments == true %}
-{% include comments.html %}
-{% endif %}
-</div>
+    <div class="row justify-content-center">
+        <!--  -->
+        <div class="col-md-10" style="margin-top:50px">
+        <h4 class="text-uppercase text-danger font-weight-bold">{{ page.title }}</h4>
+        </div>
+        <div class="col-md-10">
+            <p style="margin-bottom: 100px"> {{ content }} </p>
+            <!--  -->
+            {% for post in paginator.posts %}
+                {% if page.justlinks %}
+                    {% linkpreview post.link %}
+                {% else %}
+                    {% include main-loop-card.html %}
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
 </div>

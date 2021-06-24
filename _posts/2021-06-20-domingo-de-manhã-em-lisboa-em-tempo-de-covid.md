@@ -4,7 +4,7 @@ title: Domingo  de manhã em Lisboa em tempo de Covid
 author: isabel
 categories:
   - Opinando
-  - cronicando
+  - Cronicando
 image: /uploads/policias.jpeg
 tags:
   - Lisboa

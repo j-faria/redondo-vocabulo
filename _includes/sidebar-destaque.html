@@ -28,16 +28,6 @@
     
     <h4 class="font-weight-bold spanborder"><span>Temas</span></h4>
     
-    <!-- {% assign tags = site.tags | sort %}
-    <ul class="cloud">
-        {% for tag in tags %}
-        {% if tag[0] != "destaque" and tag[0] != "top" %}
-        <li style="font-size: {{ tag | last | size  |  times: 5 | plus: 90  }}%">{{ tag[0] | replace:'-', ' ' }}</li>
-    </span>
-        {% endif %}
-        {% endfor %}
-    </ul> -->
-    
     <tagcloud>
         {% assign sortedTags = tags %}
         <ul class="cloud">
@@ -59,5 +49,9 @@
             {% endfor %}
         </ul>
     </tagcloud>
-
+    
+    {% include followit.html %}
+    
 </div> 
+
+

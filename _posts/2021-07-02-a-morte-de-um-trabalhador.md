@@ -4,7 +4,7 @@ title: A morte de um trabalhador
 author: isabel
 categories:
   - Opinando
-image:
+image: /uploads/autoestrada.jpeg
 tags:
   - Reflexões
 comments: true

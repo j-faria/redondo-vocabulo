@@ -12,7 +12,7 @@ Durante o dia tinha visto a capa da Vogue italiana, com esta foto linda de M&oac
 
 Durante a tarde vi a not&iacute;cia de um professor da Faculdade de Direito da Universidade do Porto n&atilde;o ter querido permitir que uma aluna fizesse um exame por estar "muito destapada".
 
-Tenho a impress&atilde;o que quem se choca perante a imagem&nbsp; da capa da revista&nbsp; n&atilde;o s&atilde;o exactamente os mesmos que se insurgem com a not&iacute;cia. O que torna a coisa mais grave. E mais alargada,
+Tenho a impress&atilde;o que quem se choca perante a imagem&nbsp; da capa da revista&nbsp; n&atilde;o s&atilde;o exactamente os mesmos que se insurgem com a not&iacute;cia. O que torna a coisa mais grave. E mais alargada, Até porque se alegam motivos contr&aacute;rios para a posi&ccedil;&atilde;o.
 
 E, no entanto, eu acho que no fundo das duas posi&ccedil;&otilde;es est&aacute; o mesmo moralismo balofo e sufocante contra&nbsp; o qual muitas mulheres da minha gera&ccedil;&atilde;o e das gera&ccedil;&otilde;es anteriores &agrave; minha tanto lutaram.
 

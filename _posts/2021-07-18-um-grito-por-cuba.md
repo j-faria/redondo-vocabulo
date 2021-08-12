@@ -3,6 +3,7 @@ layout: post
 title: Um Grito por Cuba
 author: isabel
 categories:
+  - Lendo
 link: >-
   https://blogdaboitempo.com.br/2021/07/16/um-grito-padura-escreve-sobre-as-manifestacoes-em-cuba/?fbclid=IwAR2A_P9vOxqAo1oXZM25kVyTR9KLVrD8uehBt-X_E_PizCDDQA9OBE3iUv4
 tags:

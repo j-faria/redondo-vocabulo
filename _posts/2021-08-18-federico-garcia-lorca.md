@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Federico Garcia Lorca,
+title: Federico Garcia Lorca
 author: isabel
 categories:
   - cronicando
@@ -10,8 +10,8 @@ tags:
 ---
 "Federico Garcia Lorca, poeta, escritor, dramaturgo, resistente, socialista, homossexual, foi assassinado pelos fascistas, por ser tudo isto.
 
-Os fascistas n&atilde;o suportavam ent&atilde;o, como n&atilde;o suportam agora, a arte, a cultura, os que querem construir um mundo novo, socialista, os anti-fascismos, os que amam quem querem amar, os que querem viver assim como a foto documenta: em liberdade e em alegria.
+Os fascistas não suportavam então, como não suportam agora, a arte, a cultura, os que querem construir um mundo novo, socialista, os anti-fascismos, os que amam quem querem amar, os que querem viver assim como a foto documenta: em liberdade e em alegria.
 
-Fuzilado em Granada h&aacute; 84 anos. Fisicamente. Apenas, fisicamente. Continua vivo na nossa mem&oacute;ria e na nossa certeza que o fascismo e os fascistas n&atilde;o passar&atilde;o.
+Fuzilado em Granada há 84 anos. Fisicamente. Apenas, fisicamente. Continua vivo na nossa memória e na nossa certeza que o fascismo e os fascistas não passarão.
 
-"Hoje sinto no cora&ccedil;&atilde;o u&nbsp; vago tremor de estrelas e todas as coisas s&atilde;o t&atilde;o brancas como minha pena."<br><br>&nbsp;
+"Hoje sinto no coração u vago tremor de estrelas e todas as coisas são tão brancas como minha pena."<br><br>

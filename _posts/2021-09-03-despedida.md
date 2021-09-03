@@ -7,4 +7,4 @@ categories:
 link: https://youtu.be/TymJR8Y0FZQ
 tags:
 ---
-https://youtu.be/TymJR8Y0FZQ
+Morreu um extraordin&aacute;rio musico, um lutador anti fascista, um comunista, um homem de corpo inteiro e vida cheia.
